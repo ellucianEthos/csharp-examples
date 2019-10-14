@@ -51,6 +51,7 @@
     <Compile Include="ChangeNotificationV2.cs" />
     <Compile Include="EthosClient.cs" />
     <Compile Include="EthosEntityBase.cs" />
+    <Compile Include="EthosPerformanceMetrics.cs" />
     <Compile Include="GetResponse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
